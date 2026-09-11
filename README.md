@@ -2,8 +2,6 @@
 
 Projeto desenvolvido durante o curso **JavaScript para QAs**, com o objetivo de praticar fundamentos de JavaScript e desenvolvimento de aplicações web utilizando Vue.js.
 
-![Tela Home](image.png)
-
 ## 🚀 Sobre o projeto
 
 A aplicação apresenta uma lista de personagens de Star Wars e permite ao usuário interagir com os personagens através de diferentes funcionalidades.

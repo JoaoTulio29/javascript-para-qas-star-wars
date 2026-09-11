@@ -2,11 +2,8 @@
 
 Projeto desenvolvido durante o curso **JavaScript para QAs**, com o objetivo de praticar fundamentos de JavaScript e desenvolvimento de aplicações web utilizando Vue.js.
 
-<<<<<<< HEAD
-=======
 <img width="1666" height="915" alt="image" src="https://github.com/user-attachments/assets/88423687-5323-4b63-9355-5bcbc4017525" />
 
->>>>>>> 6460b6462f968492bdf4a7f3e49c9a3791454d9e
 ## 🚀 Sobre o projeto
 
 A aplicação apresenta uma lista de personagens de Star Wars e permite ao usuário interagir com os personagens através de diferentes funcionalidades.

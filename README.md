@@ -2,7 +2,7 @@
 
 Projeto desenvolvido durante o curso **JavaScript para QAs**, com o objetivo de praticar fundamentos de JavaScript e desenvolvimento de aplicações web utilizando Vue.js.
 
-![Tela Home](image.png)
+<img width="1666" height="915" alt="image" src="https://github.com/user-attachments/assets/88423687-5323-4b63-9355-5bcbc4017525" />
 
 ## 🚀 Sobre o projeto
 
